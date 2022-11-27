@@ -1,0 +1,17 @@
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\bin\Debug\netcoreapp3.1\KhairiSoft.exe
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\bin\Debug\netcoreapp3.1\KhairiSoft.deps.json
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\bin\Debug\netcoreapp3.1\KhairiSoft.runtimeconfig.json
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\bin\Debug\netcoreapp3.1\KhairiSoft.runtimeconfig.dev.json
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\bin\Debug\netcoreapp3.1\KhairiSoft.dll
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\bin\Debug\netcoreapp3.1\KhairiSoft.pdb
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.csprojAssemblyReference.cache
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.Form1.resources
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.Form2.resources
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.csproj.GenerateResource.cache
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.AssemblyInfoInputs.cache
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.AssemblyInfo.cs
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.dll
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.pdb
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.genruntimeconfig.cache
+C:\Users\Abdulrhman\source\repos\KhairiSoft\KhairiSoft\obj\Debug\netcoreapp3.1\KhairiSoft.Properties.Resources.resources
